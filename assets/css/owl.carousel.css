@@ -199,7 +199,7 @@
 .owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {width: 50px; height: 50px; line-height: 55px; font-weight: bold; background: #ffffff; border-radius: 50%; color: #02060b; cursor: pointer; display: inline-block; font-size: 24px; margin: 0 10px; -webkit-box-shadow: 0 0.5rem 1rem rgba(110, 0, 255, 0.4) !important;
     box-shadow: 0 0.5rem 1rem rgba(110, 0, 255, 0.4) !important;}
 .owl-carousel .owl-nav button.owl-prev:hover,
-.owl-carousel .owl-nav button.owl-next:hover{background-color: #1360ef; color: #ffffff}
+.owl-carousel .owl-nav button.owl-next:hover{background-color: #221B68; color: #ffffff}
 
 .owl-carousel.owl-center .owl-item{opacity: 0.3;}
 .owl-carousel .owl-item.center{transform: scale(1.1); z-index: 99; opacity: 1;}
